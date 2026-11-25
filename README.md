@@ -1,6 +1,6 @@
 # Data Engineering Internship — Ollion Consultancy
 
-Welcome to my internship repository! I created this space to document my technical ramp-up, architecture notes, hands-on labs, and project work over the next six months as a **Data Engineering Intern** at **Ollion Consultancy**.
+Welcome to my internship repository! I created this space to present document of proof for the work assigned to me by my buddy/mentor for the assessment as a **Data Engineering Intern** at **Ollion Consultancy**.
 
 ## About Me
 
